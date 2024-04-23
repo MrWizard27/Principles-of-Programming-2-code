@@ -1,0 +1,80 @@
+
+Grade Report for Ken McSnardle
+
+	Quiz average  :  0.0
+	Midterm grade : 0
+	Final Exam    : 0
+
+Semester Average   : 0.0   F
+
+
+
+Grade Report for Ken McSnardle
+
+	Quiz average  :  8.571428571428571
+	Midterm grade : 89
+	Final Exam    : 91
+
+Semester Average   : 88.65   B
+
+
+
+Grade Report for Doogle O'Klartz
+
+	Quiz average  :  4.0
+	Midterm grade : 44
+	Final Exam    : 88
+
+Semester Average   : 60.2   D
+
+
+
+Grade Report for Lady Gaga
+
+	Quiz average  :  6.0
+	Midterm grade : 62
+	Final Exam    : 91
+
+Semester Average   : 72.9   C
+
+
+
+Grade Report for Fred Flintstone
+
+	Quiz average  :  7.571428571428571
+	Midterm grade : 76
+	Final Exam    : 93
+
+Semester Average   : 82.7   B
+
+
+
+Grade Report for Jerry Javoovoo
+
+	Quiz average  :  5.714285714285714
+	Midterm grade : 99
+	Final Exam    : 100
+
+Semester Average   : 84.75   B
+
+
+
+Grade Report for Zinky Poo McJaffrey
+
+	Quiz average  :  8.571428571428571
+	Midterm grade : 0
+	Final Exam    : 0
+
+Semester Average   : 30.0   F
+
+
+
+Grade Report for George Foreman IV
+
+	Quiz average  :  8.428571428571429
+	Midterm grade : 100
+	Final Exam    : 96
+
+Semester Average   : 92.9   A
+
+
